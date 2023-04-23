@@ -1,0 +1,20 @@
+Stock Name,Best Model,Best Split
+FSLR,Support Vector Machines,Blocked Time Series Split
+FREY,Support Vector Machines,Blocked Time Series Split
+LIN,Support Vector Machines,Blocked Time Series Split
+GM,Support Vector Machines,Blocked Time Series Split
+ETN,Random Forest,Time Series Split
+ORA,Support Vector Machines,Blocked Time Series Split
+AES,Decision Tree,Blocked Time Series Split
+OXY,Support Vector Machines,Blocked Time Series Split
+TTE,Support Vector Machines,Blocked Time Series Split
+CVX,Decision Tree,Blocked Time Series Split
+KMI,Support Vector Machines,Blocked Time Series Split
+PXD,Decision Tree,Blocked Time Series Split
+OVV,Support Vector Machines,Blocked Time Series Split
+KBR,Decision Tree,Blocked Time Series Split
+CIVI,Support Vector Machines,Blocked Time Series Split
+KNTK,Decision Tree,Blocked Time Series Split
+ROCC,Support Vector Machines,Blocked Time Series Split
+NRG,Support Vector Machines,Blocked Time Series Split
+USAC,Support Vector Machines,Blocked Time Series Split
